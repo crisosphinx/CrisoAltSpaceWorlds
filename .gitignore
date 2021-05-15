@@ -1,0 +1,16 @@
+/CrisoWorld/Criso World/Library/*
+/CrisoWorld/Criso World/obj/*
+/CrisoWorld/Criso World/Logs/*
+/CrisoWorld/Criso World/Packages/*
+/CrisoWorld/Criso World/ProjectSettings/*
+/CrisoWorld/Criso World/.vs/*
+/CrisoWorld/Criso World/Assets/Altspace/*
+/CrisoWorld/Criso World/Assets/Editor/*
+/CrisoWorld/Criso World/Assets/Plugins/*
+/CrisoWorld/Criso World/Assets/Scenes/SampleScene/*
+/CrisoWorld/Criso World/Assets/Scenes/SampleScene/(Rename Me)SampleScene.unity
+*.mb
+*.sln
+*.csproj
+*.zip
+*.meta
